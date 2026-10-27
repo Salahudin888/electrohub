@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # ElectroHub 🛒
 
 ElectroHub is a modern electronics e-commerce website built with Next.js and TypeScript. It provides a clean shopping experience where users can explore electronic products, view product details, manage their cart, and proceed to checkout.
@@ -98,3 +99,5 @@ Created as a web development portfolio project.
 ##  License
 
 This project is available for learning and portfolio purposes.
+=======
+>>>>>>> d47917cd7dcb7209ce0f4adadd66a326abc222a3
