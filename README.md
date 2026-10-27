@@ -1,8 +1,6 @@
-
-
 # ElectroHub 🛒
 
-ElectroHub is a modern electronics e-commerce website built with Next.js and TypeScript. It provides a clean shopping experience where users can explore electronic products, view product details, manage their cart, and proceed to checkout.
+ElectroHub is a modern electronics e-commerce website built with Next.js and TypeScript. It provides a clean shopping experience where users can explore electronic products, view product details, manage their shopping cart, and proceed to checkout.
 
 ## ✨ Features
 
@@ -25,8 +23,29 @@ ElectroHub is a modern electronics e-commerce website built with Next.js and Typ
 - JavaScript
 - HTML
 
+## 📸 Screenshots
+
+### Home Page
+![ElectroHub Home Page](public/screenshots/home.png)
+
+### Product Page
+![ElectroHub Product Page](public/screenshots/productpage.png)
+
+### Add to Cart
+![ElectroHub Add to Cart](public/screenshots/addtocart.png)
+
+### Checkout Page
+![ElectroHub Checkout](public/screenshots/checkout.png)
+
+### Contact Page
+![ElectroHub Contact](public/screenshots/contact.png)
+
+### Footer
+![ElectroHub Footer](public/screenshots/footer.png)
+
 ## 📂 Project Structure
 
+```text
 app/
 ├── data/
 │   └── products.ts
@@ -39,19 +58,33 @@ app/
 ├── components/
 └── page.tsx
 
+public/
+└── screenshots/
+    ├── home.png
+    ├── productpage.png
+    ├── addtocart.png
+    ├── checkout.png
+    ├── contact.png
+    └── footer.png
+
 README.md
 package.json
 ```
 
 ## 🚀 Getting Started
 
+### Prerequisites
+
+- Node.js
+- npm
+
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/selahudin888/electrohub.git
+git clone https://github.com/Salahudin888/electrohub.git
 ```
 
-### 2. Open the project
+### 2. Open the project folder
 
 ```bash
 cd electrohub
@@ -71,11 +104,9 @@ npm run dev
 
 ### 5. Open in your browser
 
-Visit:
+Visit [http://localhost:3000](http://localhost:3000).
 
-http://localhost:3000
-
-## Products
+## 🛍️ Sample Products
 
 ElectroHub includes products such as:
 
@@ -88,15 +119,16 @@ ElectroHub includes products such as:
 - Tablet Pro
 - Digital Camera
 
-##  Project Goal
+## 🎯 Project Goal
 
-The goal of ElectroHub is to practice modern web development by building a user-friendly e-commerce interface and demonstrate skills in React, Next.js, TypeScript, component reuse, dynamic routing, and cart functionality.
+The goal of ElectroHub is to build a user-friendly e-commerce interface while developing practical skills in React, Next.js, TypeScript, reusable components, dynamic routing, and shopping cart functionality.
 
-##  Author
+## 👨‍💻 Author
 
-Created as a web development portfolio project.
+**Salahudin Murad**
 
-##  License
+- GitHub: [Salahudin888](https://github.com/Salahudin888)
+
+## 📄 License
 
 This project is available for learning and portfolio purposes.
-=======
