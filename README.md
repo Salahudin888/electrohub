@@ -29,19 +29,19 @@ ElectroHub is a modern electronics e-commerce website built with Next.js and Typ
 ![ElectroHub Home Page](public/screenshots/home.png)
 
 ### Product Page
-![ElectroHub Product Page](public/screenshots/productpage.png)
+![ElectroHub Product Page](public/screenshots/productPage.png)
 
 ### Add to Cart
-![ElectroHub Add to Cart](public/screenshots/addtocart.png)
+![ElectroHub Add to Cart](public/screenshots/Addtocart.png)
 
 ### Checkout Page
 ![ElectroHub Checkout](public/screenshots/checkout.png)
 
 ### Contact Page
-![ElectroHub Contact](public/screenshots/contact.png)
+![ElectroHub Contact](public/screenshots/contactPage.png)
 
 ### Footer
-![ElectroHub Footer](public/screenshots/footer.png)
+![ElectroHub Footer](public/screenshots/footerPage.png)
 
 ## 📂 Project Structure
 
